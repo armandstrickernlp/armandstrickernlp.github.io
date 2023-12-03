@@ -85,8 +85,8 @@ author:
   bio              : "PhD student in Dialogue systems, NLP"
   location         : "Paris, France"
   employer         : "LISN, Université Paris-Saclay"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : armand.stricker@lisn.upsaclay.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
