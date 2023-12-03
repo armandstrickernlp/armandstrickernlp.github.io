@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Armand's Homepage 👋"
+title                    : "Armand's Homepage"
 title_separator          : "-"
 name                     : &name "Armand Stricker"
 description              : &description "PhD student @ LISN, Université Paris-Saclay"

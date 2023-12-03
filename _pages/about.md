@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 3rd year PhD student in NLP at Université Paris-Saclay, working on Dialogue Systems.
+# Hi there !
+I'm a 3rd year PhD student in NLP at Université Paris-Saclay, working on Dialogue Systems and NLP.
 
 
 
