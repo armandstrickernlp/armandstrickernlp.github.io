@@ -2,14 +2,9 @@
 title: "Towards More Natural Dialogues: Integrating Open-Domain Dialogue Skills into Task- Oriented Agents."
 collection: publications
 permalink: /publication/YRRSDS
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Position paper on the intersection between chitchat and task-oriented dialogues (TODs), with a focus on integrating capabilities typically associated with chitchat systems into task-oriented agents.'
+date: 2023
+venue: 'YRRSDS 2023'
+paperurl: 'https://aclanthology.org/2023.yrrsds-1.10/'
+# citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
