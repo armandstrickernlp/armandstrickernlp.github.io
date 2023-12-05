@@ -2,9 +2,9 @@
 title: "Intro to NLP"
 collection: teaching
 type: "Master 1 in Computational Linguistics"
-permalink: /teaching/Inalco
+permalink: /teaching/Inalco.md
 venue: "Inalco"
-date: Since 2021
+date: 2021-09-01
 location: "Paris, France"
 ---
 
