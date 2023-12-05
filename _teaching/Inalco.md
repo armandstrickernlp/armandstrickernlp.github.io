@@ -3,18 +3,11 @@ title: "Intro to NLP"
 collection: teaching
 type: "Master 1 in Computational Linguistics"
 permalink: /teaching/Inalco.md
-venue: "Inalco"
+venue: "INALCO"
 date: 2021-09-01
 location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Intro to NLP in English 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I lecture a weekly two-hour class designed for first-year Master's students in Computational Linguistics at INALCO, Paris. The class is taught in English and provides a beginner-friendly introduction to NLP and Machine Learning for NLP. The class includes projects such as building a trigram language model, creating a naïve Bayes spam classifier, performing sentiment analysis using logistic regression, and training word embeddings with the CBOW approach in PyTorch.
