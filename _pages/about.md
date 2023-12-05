@@ -22,6 +22,7 @@ Through this topic, I aim to assess which open-domain qualities may be useful in
 **Topics of Interest**:
 - Moving towards more user-focused TODs.
 - Incorporating additional grounding into TOD modeling. This includes user emotions, user backstories, preferences extracted from previous conversations, or world knowledge that extends beyond the ontology and database.
+- Simulating more conversational and challenging TOD flows with LLMs to improve and evaluate system resilience.
 
 
 
