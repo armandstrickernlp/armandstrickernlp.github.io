@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 3rd year PhD student in NLP at Université Paris-Saclay, working on Dialogue Systems and NLP.
+Hi there 👋 I'm a 3rd year PhD student at the LISN Lab Université Paris-Saclay, working on Dialogue Systems and NLP.
 
 **Thesis** : Towards More Natural Dialogues: Integrating Open-Domain Dialogue Skills into Task- Oriented Agents
 
@@ -15,13 +15,13 @@ My research focuses on the intersection between open-domain and task-oriented di
 Through this topic, I aim to assess which open-domain qualities may be useful in the context of task-oriented dialogue (TOD). Additionally, I seek to identify methods for integrating these into a unified TOD system, enhancing its flexibility and appropriateness.
 
 **My latest projects include**:
-•	A novel automatic chitchat augmentation for MultiWOZ, in which a chatty user adds elements of backstory to their request. System responses are also automatically enhanced to provide support and understanding while still advancing the task. This provides a testbed for building more chitchat-resilient TOD systems. Baselines assessed are end-to-end and built on top of Llama-2, fine-tuned with LoRA.
-•	A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
+- A novel automatic chitchat augmentation for MultiWOZ, in which a chatty user adds elements of backstory to their request. System responses are also automatically enhanced to provide support and understanding while still advancing the task. This provides a testbed for building more chitchat-resilient TOD systems. Baselines assessed are end-to-end and built on top of Llama-2, fine-tuned with LoRA.
+- A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
 
 
 **Topics of Interest**:
-•	Moving towards more user-focused TODs.
-•	Incorporating additional grounding into TOD modeling. This includes user emotions, user backstories, preferences extracted from previous conversations, or world knowledge that extends beyond the ontology and database.
+- Moving towards more user-focused TODs.
+- Incorporating additional grounding into TOD modeling. This includes user emotions, user backstories, preferences extracted from previous conversations, or world knowledge that extends beyond the ontology and database.
 
 
 
