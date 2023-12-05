@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "Towards More Natural Dialogues: Integrating Open-Domain Dialogue Skills into Task- Oriented Agents."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/YRRSDS
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
