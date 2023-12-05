@@ -4,7 +4,7 @@ collection: teaching
 type: "Class"
 permalink: /teaching/inalco
 venue: "INALCO, Department of Computational Linguistics"
-date: 2021
+date: 2021-05-10
 location: "Paris, France"
 ---
 
