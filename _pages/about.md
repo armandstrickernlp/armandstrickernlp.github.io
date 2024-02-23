@@ -27,10 +27,10 @@ I aim to assess which open-domain qualities may be useful in TODs and integrate 
 - A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
 - A zero-shot method for TOD grounded in previous chitchat exchanges. In this scenario, finding task-relevant entities in the previous chitchat is crucial and poses a unique coreference challenge. I explore the possibility of using a TOD-only model and zero-shot prompting for Query Reformulation to handle the challenge of inter-mode coreference, without the need for additional training data or fine-tuning. Experiments are based on GPT-3.5-turbo, LLama-2-7B and the FusedChat dataset. -->
 
-
+<!-- 
 **Topics of Interest**:
 - Moving towards more user-focused TODs. This includes the development of more user-adaptive TOD systems, which can adapt to the user's conversational style, preferences, and emotions.
-- Simulating more conversational and challenging TOD flows with LLMs to improve and evaluate system resilience.
+- Simulating more conversational and challenging TOD flows with LLMs to improve and evaluate system resilience. -->
 
 
 
