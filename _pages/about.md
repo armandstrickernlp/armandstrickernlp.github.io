@@ -11,13 +11,14 @@ I'm a 3rd year PhD student at the LISN Lab, Université Paris-Saclay, working on
 
 **Thesis** : Towards More Natural Dialogues: Integrating Open-domain Dialogue Skills into Task-oriented Agents
 
-My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), typically regarded as two distinct modes. However, chitchat and task talk frequently overlap in everyday human communication. Because task agents are not typically trained to handle such inter-mode inputs, this can lead to dialogue break down.
+My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), typically regarded as two distinct modes. However, chitchat and task talk frequently overlap in everyday human communication. 
+
 I aim to assess which open-domain qualities may be useful in TODs and integrate these into a TOD system, enhancing the appropriateness of its responses and its resilience to chitchat inputs.
 <!-- Open-domain systems are designed to embody all the attributes of an ideal conversationalist, including empathy, engagement, knowledge, and politeness. In contrast, task agents are typically engineered to be efficient and effective tools.  -->
 
 
 **My latest projects include**:
-- Zero-shot approach to Task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. Under Review 
+- Zero-shot approach to task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. Under Review 
 - Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems. Accepted at LREC-COLING 2024.
 - A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. Accepted at IWSDS 2024.
 - Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. Accepted at ASRU 2023.
