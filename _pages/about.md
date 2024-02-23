@@ -11,7 +11,7 @@ Hi 👋 I'm a 3rd year PhD student at the LISN Lab, Université Paris-Saclay, wo
 
 <!-- **Thesis** : Towards More Natural Dialogues: Integrating Open-domain Dialogue Skills into Task-oriented Agents -->
 
-My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), which are typically regarded as two distinct modes. I aim to assess and integrate useful open-domain qualities into TOD systems, enhancing response appropriateness and system resilience to chitchat inputs.
+My research focuses on the intersection between open-domain dialogue (a.k.a. chitchat) and task-oriented dialogue (TOD), which are typically regarded as two distinct modes. I aim to assess and integrate useful open-domain qualities into TOD systems, enhancing response appropriateness and system resilience to open-domain inputs.
 <!-- Open-domain systems are designed to embody all the attributes of an ideal conversationalist, including empathy, engagement, knowledge, and politeness. In contrast, task agents are typically engineered to be efficient and effective tools.  -->
 
 
