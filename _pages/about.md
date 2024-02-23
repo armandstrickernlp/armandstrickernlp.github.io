@@ -7,24 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there 👋 I'm a 3rd year PhD student at the LISN Lab Université Paris-Saclay, working on Dialogue Systems and NLP.
+I'm a 3rd year PhD student at the LISN Lab, Université Paris-Saclay, working on Dialogue Systems and NLP.
 
-**Thesis** : Towards More Natural Dialogues: Integrating Open-Domain Dialogue Skills into Task- Oriented Agents
+**Thesis** : Towards More Natural Dialogues: Integrating Open-domain Dialogue Skills into Task-oriented Agents
 
-My research focuses on the intersection between open-domain and task-oriented dialogues, which are typically regarded as distinct. Broadly, open-domain systems are tailored for chitchat and are designed to embody all the attributes of an ideal conversationalist, including empathy, engagement, knowledge, and politeness. In contrast, task agents are typically engineered to be efficient and effective tools. However, chitchat and task-oriented talk frequently overlap in everyday human communication. Thus, systems which treat these two modes as distinct are limited in their understanding and responses, hindering their usability.
-Through this topic, I aim to assess which open-domain qualities may be useful in the context of task-oriented dialogue (TOD). Additionally, I seek to identify methods for integrating these into a unified TOD system, enhancing its flexibility and appropriateness.
+My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), typically regarded as two distinct modes. Broadly, open-domain systems are designed to embody all the attributes of an ideal conversationalist, including empathy, engagement, knowledge, and politeness. In contrast, task agents are typically engineered to be efficient and effective tools. However, chitchat and task talk frequently overlap in everyday human communication, and task agents are not typically trained to handle such inter-mode inputs. This can lead to dialogue break down.
+Through this topic, I aim to assess which open-domain qualities may be useful in the context of task-oriented dialogue and integrate these into a TOD system, enhancing the appropriateness of its responses and its resilience to chitchat inputs.
 
 **My latest projects include**:
 - A novel automatic chitchat augmentation for MultiWOZ, in which a chatty user adds elements of backstory to their request. System responses are also automatically enhanced to provide support and understanding while still advancing the task. This provides a testbed for building more chitchat-resilient TOD systems. Baselines assessed are end-to-end and built on top of Llama-2, fine-tuned with LoRA.
 - A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
+- A zero-shot method for TOD grounded in previous chitchat exchanges. In this scenario, finding task-relevant entities in the previous chitchat is crucial and poses a unique coreference challenge. I explore the possibility of using a TOD-only model and zero-shot prompting for Query Reformulation to handle the challenge of inter-mode coreference, without the need for additional training data or fine-tuning. Experiments are based on GPT-3.5-turbo, LLama-2-7B and the FusedChat dataset.
 
 
 **Topics of Interest**:
-- Moving towards more user-focused TODs.
-- Incorporating additional grounding into TOD modeling. This includes user emotions, user backstories, preferences extracted from previous conversations, or world knowledge that extends beyond the ontology and database.
+- Moving towards more user-focused TODs. This includes the development of more user-adaptive TOD systems, which can adapt to the user's conversational style, preferences, and emotions.
 - Simulating more conversational and challenging TOD flows with LLMs to improve and evaluate system resilience.
-
-
 
 
 
