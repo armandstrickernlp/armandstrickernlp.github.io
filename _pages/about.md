@@ -16,10 +16,10 @@ My research focuses on the intersection between open-domain/chitchat and task-or
 
 
 **My latest projects include**:
-- Zero-shot approach to task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. Under Review 
-- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems. Accepted at LREC-COLING 2024.
-- A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. Accepted at IWSDS 2024.
-- Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. Accepted at ASRU 2023.
+- Zero-shot approach to task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. *Under Review* 
+- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems. *LREC-COLING 2024*
+- A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. *IWSDS 2024*
+- Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. *ASRU 2023*
 
 <!-- - A novel automatic chitchat augmentation for MultiWOZ, in which a chatty user adds elements of backstory to their request. System responses are also automatically enhanced to provide support and understanding while still advancing the task. This provides a testbed for building more chitchat-resilient TOD systems. Baselines assessed are end-to-end and built on top of Llama-2, fine-tuned with LoRA.
 - A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
