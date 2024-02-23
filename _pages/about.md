@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a 3rd year PhD student at the LISN Lab, Université Paris-Saclay, working on Dialogue Systems and NLP.
+Hi 👋 I'm a 3rd year PhD student at the LISN Lab, Université Paris-Saclay, working on Dialogue Systems and NLP.
 
-**Thesis** : Towards More Natural Dialogues: Integrating Open-domain Dialogue Skills into Task-oriented Agents
+<!-- **Thesis** : Towards More Natural Dialogues: Integrating Open-domain Dialogue Skills into Task-oriented Agents -->
 
-My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), typically regarded as two distinct modes. I aim to assess and integrate useful open-domain qualities into TOD systems, enhancing response appropriateness and system resilience to chitchat inputs.
+My research focuses on the intersection between open-domain/chitchat and task-oriented dialogues (TODs), which are typically regarded as two distinct modes. I aim to assess and integrate useful open-domain qualities into TOD systems, enhancing response appropriateness and system resilience to chitchat inputs.
 <!-- Open-domain systems are designed to embody all the attributes of an ideal conversationalist, including empathy, engagement, knowledge, and politeness. In contrast, task agents are typically engineered to be efficient and effective tools.  -->
 
 
 **My latest projects include**:
 - Zero-shot approach to task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. *Under Review* 
-- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems. *LREC-COLING 2024*
+- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems and enables a system to respond with chitchat and TOD all in the same turn. *LREC-COLING 2024*
 - A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. *IWSDS 2024*
 - Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. *ASRU 2023*
 
