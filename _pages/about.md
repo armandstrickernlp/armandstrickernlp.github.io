@@ -21,7 +21,7 @@ My research focuses on the intersection between open-domain dialogue (a.k.a. chi
 - A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. *IWSDS 2024* [link](https://arxiv.org/abs/2401.13789)
 - Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. *ASRU 2023* [link](https://ieeexplore.ieee.org/document/10389695)
 
-[My Arxiv Papers](https://arxiv.org/search/?query=armand+stricker&searchtype=all&source=header)
+[Papers on Arxiv](https://arxiv.org/search/?query=armand+stricker&searchtype=all&source=header)
 
 <!-- - A novel automatic chitchat augmentation for MultiWOZ, in which a chatty user adds elements of backstory to their request. System responses are also automatically enhanced to provide support and understanding while still advancing the task. This provides a testbed for building more chitchat-resilient TOD systems. Baselines assessed are end-to-end and built on top of Llama-2, fine-tuned with LoRA.
 - A unified approach to user emotion detection (ED) and TOD modeling.  ED is generally overlooked or treated as an independent, additional task in TOD systems. I assess the benefits of directly including user emotions into an end-to-end TOD pipeline. Tasks are learned with a unified language modeling objective and lead to mutual benefits. Experiments are based on GPT-2, Llama-2 and the EmoWOZ dataset.
