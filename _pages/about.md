@@ -17,7 +17,7 @@ My research focuses on the intersection between open-domain dialogue (a.k.a. chi
 
 **My latest projects include**:
 - Zero-shot approach to task-oriented dialogue grounded in a previous chitchat exchange, using query reformulation and coreference resolution, achieving 97% of a LoRA fine-tuned LLM’s performance. *Under Review* 
-- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems and enables a system to respond with chitchat and TOD all in the same turn. *LREC-COLING 2024* [link]()
+- Novel chitchat augmentation for MultiWOZ using in-context learning with Llama-2-70B. Provides a testbed for building more chitchat-resilient TOD systems and enables a system to respond with chitchat and TOD all in the same turn. *LREC-COLING 2024* [link](https://arxiv.org/abs/2402.15248)
 - A unified approach to user emotion detection and TOD modeling, using a mixture of LoRA fine-tuning and CoT prompting on Llama-2-7B. Leads to improved task success rates and more empathetic responses. *IWSDS 2024* [link](https://arxiv.org/abs/2401.13789)
 - Comparative study based on entropy of recent Task-Oriented Dialogue datasets enhanced with chitchat. *ASRU 2023* [link](https://ieeexplore.ieee.org/document/10389695)
 
